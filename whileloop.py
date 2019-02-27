@@ -1,5 +1,4 @@
-a=1
-while(a<=100)
-    print(a)
-    a=a+1
-    
+n=55
+while(n<=100)
+    print(n)
+    n=n+1
